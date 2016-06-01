@@ -1,0 +1,28 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.container {
+  display: block;
+}
+
+.person {
+  width: 240px;
+  height: 360px;
+  display: inline-block;
+  border: 1px solid black;
+  margin: 7px;
+}
+
+.yellowbg {
+  background-color: #e3b5a4;
+}
+
+.bluebg {
+  background-color: #9cfffa;
+}
+
+.dottedborder {
+  border: 5px dotted red;
+}
