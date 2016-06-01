@@ -24,11 +24,11 @@ NSS Front-End Milestone 2 (Single Page App) Exercise 8:
 
 ``` 
 git clone https://github.com/MeganCFord/NSS-SPA-8-wysiwyg.git
-cd __
+cd 8-wysiwyg
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SPA-8-wysiwyg)
 
 
 ![screenshot](wysiwyg-screenshot.jpg)
